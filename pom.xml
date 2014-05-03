@@ -80,6 +80,8 @@
 				<version>2.6</version>
 				<configuration>
 					<formats>
+						<aggregate>true</aggregate>
+						<forceMojoExecution>true</forceMojoExecution>
 						<format>xml</format>
 					</formats>
 				</configuration>
