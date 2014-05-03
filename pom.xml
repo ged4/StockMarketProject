@@ -79,9 +79,9 @@
 				<artifactId>cobertura-maven-plugin</artifactId>
 				<version>2.6</version>
 				<configuration>
-					<formats>
-						<aggregate>true</aggregate>
-						<forceMojoExecution>true</forceMojoExecution>
+					<aggregate>true</aggregate>
+					<forceMojoExecution>true</forceMojoExecution>
+					<formats>						
 						<format>xml</format>
 					</formats>
 				</configuration>
