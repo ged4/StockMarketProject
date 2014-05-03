@@ -30,7 +30,7 @@
 		<module>Indicators</module>
 	</modules>
 	<build>
-		<finalName>Unitconversion</finalName>
+		<finalName>StockMarket</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.codehaus.mojo</groupId>
