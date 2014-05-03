@@ -6,6 +6,13 @@
 		<artifactId>StockMarket</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>Indicators</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>StockWebCrawler</artifactId>
+	<dependencies>
+		<dependency>
+			<!-- jsoup HTML parser library @ http://jsoup.org/ -->
+			<groupId>org.jsoup</groupId>
+			<artifactId>jsoup</artifactId>
+			<version>1.7.3</version>
+		</dependency>
+	</dependencies>
 </project>
